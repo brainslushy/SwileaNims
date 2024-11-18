@@ -57,7 +57,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Two
+        title: Create login.gov account
         tagline: Step 2
         subtitle: This is the item subtitle
         text: |
