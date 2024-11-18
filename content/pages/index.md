@@ -163,7 +163,7 @@ sections:
         tagline: Step 5 - Course 3
         subtitle: Basic ICS for initial response
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Initial Responder ICS & Supervisory Actions
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
