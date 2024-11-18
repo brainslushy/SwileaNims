@@ -59,7 +59,7 @@ sections:
       - type: FeaturedItem
         title: Create login.gov account
         tagline: Step 2
-        subtitle: This is the item subtitle
+        subtitle: Login.gov account setup
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
