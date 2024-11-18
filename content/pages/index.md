@@ -25,7 +25,7 @@ sections:
       - type: FeaturedItem
         title: Create FEMA SID
         tagline: Step 1
-        subtitle: This is the item subtitle
+        subtitle: Student Identification
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
