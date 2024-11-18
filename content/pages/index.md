@@ -57,7 +57,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Create login.gov account
+        title: Create login.gov
         tagline: Step 2
         subtitle: More Government Red Tape
         text: >
