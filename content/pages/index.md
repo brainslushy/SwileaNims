@@ -95,7 +95,7 @@ sections:
         tagline: Step 3 - Course 1
         subtitle: Introduction to NIMS
         text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+          National Incident Management System Introduction
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
