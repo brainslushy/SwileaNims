@@ -15,7 +15,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: NIMS Training Links
       color: text-primary
       styles:
         self:
