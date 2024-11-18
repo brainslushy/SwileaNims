@@ -60,8 +60,9 @@ sections:
         title: Create login.gov account
         tagline: Step 2
         subtitle: More Government Red Tape
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          After setting up a FEMA SID, create a login.gov account. The
+          information you used for the FEMA SID should match this account.
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
