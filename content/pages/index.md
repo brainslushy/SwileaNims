@@ -26,8 +26,9 @@ sections:
         title: Create FEMA SID
         tagline: Step 1
         subtitle: Student Identification
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          This link will take you to register for a FEMA SID if you do not have
+          one. 
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
