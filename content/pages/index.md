@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - title: Divider
-    colors: bg-dark-fg-light
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
