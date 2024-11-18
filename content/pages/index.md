@@ -166,7 +166,7 @@ sections:
           Initial Responder ICS & Supervisory Actions
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/images.png
           altText: Placeholder text
           styles:
             self:
