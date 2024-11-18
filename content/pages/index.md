@@ -129,7 +129,7 @@ sections:
         tagline: Step 4 - Course 2
         subtitle: Introduction to ICS
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Incident Command System Introduction
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
