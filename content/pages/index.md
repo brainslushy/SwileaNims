@@ -65,7 +65,7 @@ sections:
           information you used for the FEMA SID should match this account.
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/images.png
           altText: Background alt text
           styles:
             self:
