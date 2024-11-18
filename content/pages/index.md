@@ -127,7 +127,7 @@ sections:
       - type: FeaturedItem
         title: NIMS ICS-100.c
         tagline: Step 4 - Course 2
-        subtitle: Introduction to Incident Command
+        subtitle: Introduction to ICS
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
