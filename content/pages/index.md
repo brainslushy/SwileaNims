@@ -126,7 +126,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: NIMS ICS-100.c
-        tagline: This is the tagline
+        tagline: Step 4 - Course 2
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
