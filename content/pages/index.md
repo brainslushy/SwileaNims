@@ -23,7 +23,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Create FEMA SID
         tagline: Step 1
         subtitle: This is the item subtitle
         text: |
