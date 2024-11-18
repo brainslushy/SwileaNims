@@ -125,7 +125,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Four
+        title: NIMS ICS-100.c
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
