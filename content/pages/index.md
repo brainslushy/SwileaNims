@@ -161,7 +161,7 @@ sections:
       - type: FeaturedItem
         title: NIMS ICS-200.c
         tagline: Step 5 - Course 3
-        subtitle: This is the item subtitle
+        subtitle: Basic ICS for initial response
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
