@@ -6,7 +6,7 @@
             {
                 "label": "FEMA NIMS Training Main Site",
                 "altText": "NIMS Training",
-                "url": "/careers",
+                "url": "https://training.fema.gov/nims/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
