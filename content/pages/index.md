@@ -92,7 +92,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: NIMS IS-700
-        tagline: This is the tagline
+        tagline: Step 3 - Course 1
         subtitle: Introduction to NIMS
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
