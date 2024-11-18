@@ -98,7 +98,7 @@ sections:
           National Incident Management System Introduction
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/images.png
           altText: Background alt text
           styles:
             self:
